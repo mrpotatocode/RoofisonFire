@@ -1,7 +1,7 @@
 ---
 title: 'Green Roofs in Toronto: 
   Analyzing the Effect of Policy Change on Size, Frequency, and Neighborhood Prevalence'
-author: "Thomas Rosenthal & Qi Wen"
+author: "MrPotatoCode and Qi Wen"
 date: "March 10, 2020"
 output:
   pdf_document:
