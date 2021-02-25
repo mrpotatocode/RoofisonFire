@@ -1,4 +1,4 @@
-# Green Roofs in Toronto: Analyzing the Effect of Policy Change on Size, Frequency, and Neighborhood Prevalence
+# Green Roofs in Toronto
 Green Roof Energy Diff of Diffs.
 
 - [x] Do nifty analysis
