@@ -295,7 +295,7 @@ numeric**
 
 *Table 2*
 
-![](2178-Problem-Set-4_files/figure-gfm/densityplot-1.png)<!-- -->
+![](imgs/densityplot-1.png)<!-- -->
 
 *Figure 1, the dashed line represents the policy change date*
 
@@ -356,7 +356,7 @@ the number of green roof permits, the same sign means that the
 functional form did not affect the results. Therefore, the fourth
 assumption is satisfied.
 
-![](2178-Problem-Set-4_files/figure-gfm/lineplot-1.png)<!-- -->
+![](imgs/lineplot-1.png)<!-- -->
 
 *Figure 2, the dashed line represents the policy change date*
 
