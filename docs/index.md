@@ -1,8 +1,7 @@
-Green Roofs in Toronto: Analyzing the Effect of Policy Change on Size,
-Frequency, and Neighborhood Prevalence
-================
+# Green Roofs in Toronto: Analyzing the Effect of Policy Change on Size, Frequency, and Neighborhood Prevalence
 
 Thomas Rosenthal & Qi Wen
+
 March 10, 2020
 
 ## Introduction
@@ -841,7 +840,7 @@ write_csv(toronto_hood,"toronto_neighborhoods.csv")
 
 Chicago Neighborhoods, a Google Maps API key is required, [Documentation
 provided
-here](https://developers.google.com/maps/documentation/embed/get-api-key)::
+here](https://developers.google.com/maps/documentation/embed/get-api-key):
 
 ``` r
 library(ggmap)
