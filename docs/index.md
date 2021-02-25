@@ -1,6 +1,6 @@
 # Green Roofs in Toronto: Analyzing the Effect of Policy Change on Size, Frequency, and Neighborhood Prevalence
 
-Thomas Rosenthal & Qi Wen
+[Thomas Rosenthal](https://github.com/mrpotatocode) & [Qi Wen](https://www.linkedin.com/in/qi-wen-b41953186/)
 
 March 10, 2020
 
