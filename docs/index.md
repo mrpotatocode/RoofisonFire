@@ -1,8 +1,7 @@
-Green Roofs in Toronto: Analyzing the Effect of Policy Change on Size,
-Frequency, and Neighborhood Prevalence
-================
+# Green Roofs in Toronto: Analyzing the Effect of Policy Change on Size, Frequency, and Neighborhood Prevalence
 
 Thomas Rosenthal & Qi Wen
+
 March 10, 2020
 
 ## Introduction
@@ -296,7 +295,7 @@ numeric**
 
 *Table 2*
 
-![](2178-Problem-Set-4_files/figure-gfm/densityplot-1.png)<!-- -->
+![](imgs/densityplot-1.png)<!-- -->
 
 *Figure 1, the dashed line represents the policy change date*
 
@@ -357,7 +356,7 @@ the number of green roof permits, the same sign means that the
 functional form did not affect the results. Therefore, the fourth
 assumption is satisfied.
 
-![](2178-Problem-Set-4_files/figure-gfm/lineplot-1.png)<!-- -->
+![](imgs/lineplot-1.png)<!-- -->
 
 *Figure 2, the dashed line represents the policy change date*
 
@@ -841,7 +840,7 @@ write_csv(toronto_hood,"toronto_neighborhoods.csv")
 
 Chicago Neighborhoods, a Google Maps API key is required, [Documentation
 provided
-here](https://developers.google.com/maps/documentation/embed/get-api-key)::
+here](https://developers.google.com/maps/documentation/embed/get-api-key):
 
 ``` r
 library(ggmap)
