@@ -4,6 +4,9 @@
 
 March 10, 2020
 
+### Abstract
+*In this work, we have performed difference-in-difference OLS models to examine the relationship between 2018 policy to cancel existing renewable and green energy government contracts and the size, frequency, and neighborhood prevalence of green roofs in the city of Toronto. In order to run these models, we have used the city of Chicago, a leader in green roofing in the United States, as a control group. We have hypothesized that changes in green related policy, even if not directly associated with green roof permits, will lead to a decrease in both the number of permits and the size of the green roofs that are built. Our results have been limited by the relatively small number of permits issued since the policy change. Nonetheless, our results show a decrease in both permits and green roof area, although statistically non-significant. Additionally, applying this model to similar green roof permit datasets over time could help confirm the effect of policy changes or citywide trends that may emerge in the coming climate crisis.*
+
 ## Introduction
 
 In July of 2018, newly elected Ontario Premier Doug Ford announced a
